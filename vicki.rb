@@ -1,5 +1,9 @@
+require 'yt'
+require 'yt/url'
+
 require 'slack-ruby-bot'
-require 'commands/hi'
-require 'commands/how_many'
+
 require 'commands/youtube'
+require 'commands/url'
+
 require 'bot'
