@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/claudiob/yt-url.git
   revision: d3ab9b3708a102090348cc522b254e7ad9db4609
+  ref: d3ab9b3
   specs:
     yt-url (0.0.0)
       activesupport (>= 5, < 6)
@@ -9,6 +10,7 @@ GIT
 GIT
   remote: https://github.com/claudiob/yt.git
   revision: 504f3f3fb7f3915f8d9a679f25178a19445f7e1a
+  ref: 504f3f3
   specs:
     yt (0.0.0)
       activesupport (>= 5, < 6)
