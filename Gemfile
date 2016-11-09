@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 ruby '2.3.1' # >= 2.3.0 required for <<~
 
 gem 'slack-ruby-bot'
+gem 'faye-websocket'
 gem 'puma'
 gem 'sinatra'
 gem 'yt', git: 'git://github.com/claudiob/yt.git'
